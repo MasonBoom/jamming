@@ -1,3 +1,11 @@
+Jamming, a spotify clone website, was the final capstone project for codecademy's skill path called "Create a Front-end App with React". The following technologies were used in this project:
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Spotify API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
